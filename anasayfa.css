@@ -1,0 +1,45 @@
+h1{
+    color: rgb(84, 42, 238);
+    font-size: 28;
+    background-color: rgb(43, 226, 202);
+    margin: 5rem;
+    border-radius: 5rem;
+    
+}
+body{
+    margin-left: 15rem;
+    margin-right: 15rem;
+    text-align: center;
+    
+     background-color: rgba(158, 255, 128, 0.712);
+     float: none;
+
+
+}
+section{
+
+    color: sienna;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.urunler{ 
+    margin-top: auto;
+    height: auto;
+    list-style-position: inside;   
+}
+li{
+
+    font-weight: bold; 
+    background-color: mediumpurple;
+    color: navy;
+    border-radius: 15px;
+
+
+}
+
+p.urunler{ 
+    background: burlywood;
+    height: 200px;
+}
+
+
